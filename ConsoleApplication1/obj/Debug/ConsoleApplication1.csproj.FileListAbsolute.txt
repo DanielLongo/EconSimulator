@@ -1,0 +1,6 @@
+/Users/DanielLongo 1/RiderProjects/EconMath/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe
+/Users/DanielLongo 1/RiderProjects/EconMath/ConsoleApplication1/bin/Debug/ConsoleApplication1.pdb
+/Users/DanielLongo 1/RiderProjects/EconMath/ConsoleApplication1/obj/Debug/ConsoleApplication1.csprojAssemblyReference.cache
+/Users/DanielLongo 1/RiderProjects/EconMath/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.CoreCompileInputs.cache
+/Users/DanielLongo 1/RiderProjects/EconMath/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe
+/Users/DanielLongo 1/RiderProjects/EconMath/ConsoleApplication1/obj/Debug/ConsoleApplication1.pdb
