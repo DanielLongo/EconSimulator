@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{3C618042-6C17-1085-8642-D2D659BDC6F1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ComputerPressed.cs">
+    <Files>
+      <File FileName="Assets/ComputerPressed.cs" Line="15" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
